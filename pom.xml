@@ -726,6 +726,12 @@
                 </artifactItem>
                 <artifactItem>
                   <groupId>org.daisy.pipeline.modules</groupId>
+                  <artifactId>nordic-epub3-dtbook-migrator</artifactId>
+                  <version>1.1.1-SNAPSHOT</version>
+                </artifactItem>
+                
+                <artifactItem>
+                  <groupId>org.daisy.pipeline.modules</groupId>
                   <artifactId>file-utils</artifactId>
                 </artifactItem>
                 <artifactItem>
